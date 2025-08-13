@@ -1,11 +1,5 @@
 <?php
-/**
- * Header File of Template
- * Created by PhpStorm.
- * User: Tanjil Hasan
- * Date: 9/8/2017
- * Time: 6:11 AM
- */
+
 ?>
 <?php
     $filePath = realpath(dirname(__FILE__));

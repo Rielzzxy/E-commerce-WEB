@@ -1,11 +1,5 @@
 <?php
-/**
- * User Class
- * Created by PhpStorm.
- * User: Tushar Khan
- * Date: 9/12/2017
- * Time: 2:00 AM
- */
+
 ?>
 <?php
     $filePath = realpath(dirname(__FILE__));

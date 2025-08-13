@@ -1,11 +1,5 @@
 <?php
-/**
- * Slider Page of Template
- * Created by PhpStorm.
- * User: Tanjil Hasan
- * Date: 9/8/2017
- * Time: 6:34 AM
- */
+
 ?>
 <div class="banner-bottom">
     <div class="container">

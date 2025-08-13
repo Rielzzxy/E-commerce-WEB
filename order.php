@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Tanjil Hasan
- * Date: 9/15/2017
- * Time: 2:17 AM
- */
+
 ?>
 <?php
 include 'lib/Session.php';

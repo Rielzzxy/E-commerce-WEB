@@ -1,13 +1,4 @@
 <?php
-/**
- * Formate Class
- * Created by PhpStorm.
- * User: Tushar Khan
- * Date: 9/8/2017
- * Time: 7:01 AM
- */
-?>
-<?php
 
     class Formate
     {

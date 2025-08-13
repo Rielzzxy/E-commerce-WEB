@@ -1,11 +1,5 @@
 <?php
-/**
- * Session Class
- * Created by PhpStorm.
- * User: Tushar Khan
- * Date: 9/8/2017
- * Time: 7:05 AM
- */
+
 ?>
 <?php
 

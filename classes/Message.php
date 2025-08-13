@@ -1,11 +1,5 @@
 <?php
-/**
- * Message Class
- * Created by PhpStorm.
- * User: Tushar Khan
- * Date: 9/19/2017
- * Time: 11:53 AM
- */
+
 ?>
 
 <?php

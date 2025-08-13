@@ -1,11 +1,5 @@
 <?php
-/**
- * Admin Login Class
- * Created by PhpStorm.
- * User: Tushar Khan
- * Date: 9/9/2017
- * Time: 4:45 AM
- */
+
 ?>
 <?php
     $filePath = realpath(dirname(__FILE__));

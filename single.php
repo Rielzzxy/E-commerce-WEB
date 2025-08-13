@@ -1,11 +1,5 @@
 <?php
-/**
- * Header File of Template
- * Created by PhpStorm.
- * User: Tanjil Hasan
- * Date: 9/8/2017
- * Time: 6:11 AM
- */
+
 ?>
 <?php
     if (!isset($_GET['proid']) || $_GET['proid'] == null) echo "<script>window.location = 'index.php'</script>";

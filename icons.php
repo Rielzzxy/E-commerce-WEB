@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Electronic Store a Ecommerce Online Shopping Category Bootstrap Responsive Website Template | Web Icons :: w3layouts</title>
+<title>Electronic Store a Ecommerce Online Shopping</title>
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />

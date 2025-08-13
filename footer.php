@@ -1,11 +1,5 @@
 <?php
-/**
- * Footer File of Template
- * Created by PhpStorm.
- * User: Tanjil Hasan
- * Date: 9/8/2017
- * Time: 6:12 AM
- */
+
 ?>
 <div class="newsletter">
     <div class="container">

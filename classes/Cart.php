@@ -1,11 +1,5 @@
 <?php
-/**
- * Cart Class
- * Created by PhpStorm.
- * User: Tushar Khan
- * Date: 9/12/2017
- * Time: 1:56 AM
- */
+
 ?>
 <?php
 $filePath = realpath(dirname(__FILE__));

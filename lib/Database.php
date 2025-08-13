@@ -1,10 +1,5 @@
 <?php
-/** Database Connection Class
- * Created by PhpStorm.
- * User: Tushar Khan
- * Date: 9/8/2017
- * Time: 6:54 AM
- */
+
 ?>
 <?php
     $filePath = realpath(dirname(__FILE__));
