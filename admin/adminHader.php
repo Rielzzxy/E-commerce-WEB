@@ -1,11 +1,5 @@
 <?php
-/**
- * Admin Header
- * Created by PhpStorm.
- * User: Tanjil Hasan
- * Date: 9/9/2017
- * Time: 4:08 AM
- */
+
 ?>
 <?php
     include '../lib/Session.php';

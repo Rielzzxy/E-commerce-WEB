@@ -1,11 +1,5 @@
 <?php
-/**
- * Admin Footer
- * Created by PhpStorm.
- * User: Tanjil Hasan
- * Date: 9/9/2017
- * Time: 4:09 AM
- */
+
 ?>
 
                 <footer>

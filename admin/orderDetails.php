@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Tanjil Hasan
- * Date: 9/21/2017
- * Time: 8:34 PM
- */
+
 ?>
 
 <?php
